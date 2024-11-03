@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @clauca03
+- 👀 I’m interested in the English language and learning code
+- 🌱 I’m currently learning Python3
+- 📫 How to reach me claudiaaacastells@gmail.com
+- 😄 Pronouns: she/her 
