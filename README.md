@@ -27,9 +27,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/clauca03/clauca03/output/snake.svg" alt="Snake animation" />
-
-###
